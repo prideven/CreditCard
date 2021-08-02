@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Root>
+    <Row>
+        <CreditCardNumber>5410000000000000</CreditCardNumber>
+        <ExpirationDate>3/20/2030</ExpirationDate>
+        <NameOfCardholder>Alice</NameOfCardholder>
+        <CardType>MASTERCARD</CardType>
+        <Error/>
+    </Row>
+    <Row>
+        <CreditCardNumber>4120000000000</CreditCardNumber>
+        <ExpirationDate>4/20/2030</ExpirationDate>
+        <NameOfCardholder>Bob</NameOfCardholder>
+        <CardType>VISA</CardType>
+        <Error/>
+    </Row>
+    <Row>
+        <CreditCardNumber>341000000000000</CreditCardNumber>
+        <ExpirationDate>5/20/2030</ExpirationDate>
+        <NameOfCardholder>Eve</NameOfCardholder>
+        <CardType>American Express</CardType>
+        <Error/>
+    </Row>
+    <Row>
+        <CreditCardNumber>6011000000000000</CreditCardNumber>
+        <ExpirationDate>6/20/2030</ExpirationDate>
+        <NameOfCardholder>Richard</NameOfCardholder>
+        <CardType>DISCOVER</CardType>
+        <Error/>
+    </Row>
+</Root>

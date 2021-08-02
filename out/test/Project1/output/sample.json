@@ -1,0 +1,6 @@
+[
+{"name":"Alice","creditCardNumber":"5410000000000000","date":"3/20/2030","cardType":"MASTERCARD","error":""},
+{"name":"Bob","creditCardNumber":"4120000000000","date":"4/20/2030","cardType":"VISA","error":""},
+{"name":"Eve","creditCardNumber":"341000000000000","date":"5/20/2030","cardType":"American Express","error":""},
+{"name":"Richard","creditCardNumber":"6011000000000000","date":"6/20/2030","cardType":"DISCOVER","error":""}
+]
